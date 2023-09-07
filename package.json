@@ -30,7 +30,6 @@
     "scripts/*"
   ],
   "scripts": {
-    "prepare": "husky install",
     "setup": "yarn && yarn clean && yarn build",
     "clean": "nx run-many --target=clean --nx-ignore-cycles",
     "watch": "nx run-many --target=watch --nx-ignore-cycles",
@@ -105,7 +104,6 @@
     "fs-extra": "10.0.0",
     "get-port": "5.1.1",
     "glob": "7.2.3",
-    "husky": "8.0.2",
     "inquirer": "8.2.5",
     "jest": "29.6.0",
     "jest-circus": "29.6.0",
