@@ -2,11 +2,11 @@
   "name": "strapi",
   "private": true,
   "bugs": {
-    "url": "https://github.com/strapi/strapi/issues"
+    "url": "https://github.com/rwit-io/strapi-fork-for-tpc/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "url": "git://github.com/rwit-io/strapi-fork-for-tpc.git"
   },
   "license": "SEE LICENSE IN LICENSE",
   "author": {
